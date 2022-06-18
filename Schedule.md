@@ -13,7 +13,7 @@
 - Сконцентрировать силы для преодоления следующего этапа развития организации.
 
 
-## Workshops и Reference Architectures
+## Workshops & Reference Architectures
 
 
 ## Объединенное архитектурное руководство
