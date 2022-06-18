@@ -51,4 +51,4 @@
     5. До 1 июля 2022 года комитеты формируются на основании личной инициативы желающих на условиях консента образуемого комитета.
 
 
-[1]: https://github.com/ru-arc/rsaa "RSAA Model in Archi"
+[1]: https://github.com/ru-arc/rsaa-archi-model "RSAA Model in Archi"
